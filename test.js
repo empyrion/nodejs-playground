@@ -10,3 +10,4 @@ for (i = 0; i < max; i++) {
     c = 1234 / 2 + i;
 }
 
+console.log('Hello World!');
